@@ -10,10 +10,7 @@
 - 💬 Ask me about Machine Learning algorithms, Data Analysis and Visualization  
 
 ## Get in Touch! 📬
-
-https://camo.githubusercontent.com/2736209d724b062040988b6689444bbe0fa59b96b011c3709f98a993bbc1a29d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d476974687562
-
-          
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/renata-biaggi-262a50111/) 
 <!---
 rebiaggi/rebiaggi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
